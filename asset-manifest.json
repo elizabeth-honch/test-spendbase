@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-spendbase/static/css/main.a336a2b2.css",
+    "main.js": "/test-spendbase/static/js/main.393de094.js",
+    "index.html": "/test-spendbase/index.html",
+    "main.a336a2b2.css.map": "/test-spendbase/static/css/main.a336a2b2.css.map",
+    "main.393de094.js.map": "/test-spendbase/static/js/main.393de094.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a336a2b2.css",
+    "static/js/main.393de094.js"
+  ]
+}
