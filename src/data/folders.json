@@ -1,0 +1,168 @@
+[
+  {
+    "key": "1",
+    "name": "Folder 1",
+    "type": "folder",
+    "open": false,
+    "show": true,
+    "roles": [ "user", "admin"]
+  },
+  {
+    "parent": "1",
+    "key": "1.1",
+    "name": "Folder 1.1",
+    "type": "folder",
+    "open": false,
+    "show": false,
+    "roles": [ "user", "admin"]
+  },
+  {
+    "parent": "1.1",
+    "key": "1.1.1",
+    "name": "File 1.1.1",
+    "type": "file",
+    "open": false,
+    "show": false,
+    "roles": [ "user", "admin"]
+  },
+  {
+    "parent": "1.1",
+    "key": "1.1.2",
+    "name": "File 1.1.2",
+    "type": "file",
+    "open": false,
+    "show": false,
+    "roles": [ "user", "admin"]
+  },
+  {
+    "key": "2",
+    "name": "Folder 2",
+    "type": "folder",
+    "open": false,
+    "show": true,
+    "roles": [ "user", "admin"]
+  },
+  {
+    "parent": "2",
+    "key": "2.1",
+    "name": "File 2.1",
+    "type": "file",
+    "open": false,
+    "show": false,
+    "roles": [ "user", "admin"]
+  },
+  {
+    "key": "3",
+    "name": "Folder 3",
+    "type": "folder",
+    "open": false,
+    "show": true,
+    "roles": ["admin"]
+  },
+  {
+    "parent": "3",
+    "key": "3.1",
+    "name": "Folder 3.1",
+    "type": "folder",
+    "open": false,
+    "show": false,
+    "roles": ["admin"]
+  },
+  {
+    "parent": "3.1",
+    "key": "3.1.1",
+    "name": "File 3.1.1",
+    "type": "file",
+    "open": false,
+    "show": false,
+    "roles": ["admin"]
+  },
+  {
+    "parent": "3.1",
+    "key": "3.1.2",
+    "name": "File 3.1.2",
+    "type": "file",
+    "open": false,
+    "show": false,
+    "roles": ["admin"]
+  },
+  {
+    "parent": "3",
+    "key": "3.2",
+    "name": "Folder 3.2",
+    "type": "folder",
+    "open": false,
+    "show": false,
+    "roles": ["admin"]
+  },
+  {
+    "parent": "3.2",
+    "key": "3.2.1",
+    "name": "Folder 3.2.1",
+    "type": "folder",
+    "open": false,
+    "show": false,
+    "roles": ["admin"]
+  },
+  {
+    "parent": "3.2.1",
+    "key": "3.2.1.1",
+    "name": "File 3.2.1.1",
+    "type": "file",
+    "open": false,
+    "show": false,
+    "roles": ["admin"]
+  },
+  {
+    "parent": "3.2",
+    "key": "3.2.2",
+    "name": "File 3.2.2",
+    "type": "file",
+    "open": false,
+    "show": false,
+    "roles": ["admin"]
+  },
+  {
+    "parent": "3",
+    "key": "3.3",
+    "name": "File 3.3",
+    "type": "file",
+    "open": false,
+    "show": false,
+    "roles": ["admin"]
+  },
+  {
+    "parent": "3",
+    "key": "3.4",
+    "name": "File 3.4",
+    "type": "file",
+    "open": false,
+    "show": false,
+    "roles": ["admin"]
+  },
+  {
+    "parent": "3",
+    "key": "3.5",
+    "name": "File 3.5",
+    "type": "file",
+    "open": false,
+    "show": false,
+    "roles": ["admin"]
+  },
+  {
+    "key": "4",
+    "name": "Folder 4",
+    "type": "folder",
+    "open": false,
+    "show": true,
+    "roles": [ "user", "admin"]
+  },
+  {
+    "key": "5",
+    "name": "File 5",
+    "type": "file",
+    "open": false,
+    "show": true,
+    "roles": ["admin"]
+  }
+]
